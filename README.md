@@ -1,1 +1,1 @@
-# Java-Basic-Exercise-and-Small-Project
+# This is course 1 in Java Web Developer Nanodegree on Udacity
